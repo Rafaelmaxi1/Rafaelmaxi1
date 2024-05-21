@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Rafaelmaxi1
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to get out of tutorial hell
-- 💞️ I’m looking to collaborate on coding
 
 
 <!---
